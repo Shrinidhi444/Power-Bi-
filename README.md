@@ -46,8 +46,8 @@ PowerBI-Practice-Sessions/
 ## 🚀 How to Use This Repository
 1. **Clone the repository** 📌
    ```sh
-   git clone https://github.com/Shrinidhi444/PowerBI-Practice-Sessions.git
-   cd PowerBI-Practice-Sessions
+   git clone https://github.com/Shrinidhi444/PowerBI-.git
+   cd Power-BI-
    ```
 2. **Open the `.pbit` files** in Power BI Desktop.
 3. **Practice modifying visualizations, DAX calculations, and data models.**
